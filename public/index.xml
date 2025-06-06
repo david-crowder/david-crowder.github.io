@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Crowder</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on David Crowder</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;Site Reliability Engineer with a particular focus on observability and CI/CD. Continually curious, with a desire to understand everything that makes up the system. Happy to jump into the code - be it a bash script or a Go project.&lt;/p&gt;&#xA;&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;&#xA;&lt;h3 id=&#34;senior-infrastructure-engineer&#34;&gt;Senior Infrastructure Engineer&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Collective[i]&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;2024 - Present&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Transitioned datacenter workloads to AWS running in ECS&lt;/li&gt;&#xA;&lt;li&gt;Owned security scanning for host system packages as well as docker artifacts&lt;/li&gt;&#xA;&lt;li&gt;Created and maintained deployment pipelines for web service and AI workloads using Github Actions&lt;/li&gt;&#xA;&lt;li&gt;Managed all aspects of AWS infrastructure (EC2, ECS, S3, RDS) using Terraform and Ansible&lt;/li&gt;&#xA;&lt;li&gt;Provided on-call support for Go and Python services - resolving production incidents, contributing code fixes, and facilitating blameless postmortems to improve system resilience&lt;/li&gt;&#xA;&lt;li&gt;Engaged with development teams to improve observability with OpenTelemetry + Datadog&lt;/li&gt;&#xA;&lt;li&gt;Owned the reliability and performance of DocumentDB and Postgres data stores&lt;/li&gt;&#xA;&lt;li&gt;Provisioned and managed Kafka via Amazon MSK&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;senior-site-reliability-engineer&#34;&gt;Senior Site Reliability Engineer&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Teamworks&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;2024 - 2024&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

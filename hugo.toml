@@ -1,0 +1,50 @@
+baseURL = "https://david-crowder.github.io"
+theme = "risotto"
+title = "David Crowder"
+author = "David Crowder"
+languageCode = "en"
+DefaultContentLanguage = "en"
+
+# Automatically add content sections to main menu
+sectionPagesMenu = "main"
+
+[pagination]
+pagerSize = 3
+
+[params]
+noindex = false
+
+[params.theme]
+palette = "gruvbox-light"
+
+# Sidebar: about/bio
+[params.about]
+title = "David Crowder"
+description = "Works with computers, chickens, and plants - probably not at the same time"
+logo = "🥔"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/david-crowder"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-linkedin"
+title = "ORCID"
+url = "https://www.linkedin.com/in/crowderdavid/"
+
+[menu]
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
+    weight = 10
+
+
+# For hugo >= 0.60.0, enable inline HTML
+[markup.goldmark.renderer]
+unsafe = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
