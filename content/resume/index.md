@@ -1,6 +1,7 @@
 ---
 layout: "single"
 title: "Resume"
+draft: false
 ---
 
 Site Reliability Engineer with a particular focus on observability and CI/CD. Continually curious, with a desire to understand everything that makes up the system. Happy to jump into the code - be it a bash script or a Go project.
